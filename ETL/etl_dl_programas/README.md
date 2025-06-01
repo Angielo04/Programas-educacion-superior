@@ -1,6 +1,6 @@
 # ETL
 
-Extraer los datos del dataset (dl_programas.csv) y cargarlo en el Data Lake (tabla DL_programas).
+Extraer los datos del dataset (dl_programas.csv) y cargarlo en el Data Lake (tabla DL_Programas).
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](etl_dl_programas.png)
 
