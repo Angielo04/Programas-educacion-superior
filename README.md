@@ -1,4 +1,4 @@
-# Programas educación superior
+# Programas de educación superior en Colombia
 
 Para el análisis de los datos se organizan las siguientes carpetas:
 
