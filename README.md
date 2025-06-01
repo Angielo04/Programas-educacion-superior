@@ -1,4 +1,4 @@
-# Programas-educacion-superior
+# Programas educación superior
 
 Para el análisis de los datos se organizan las siguientes carpetas:
 
