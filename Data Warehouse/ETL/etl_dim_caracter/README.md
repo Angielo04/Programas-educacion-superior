@@ -4,7 +4,7 @@ Extraer los datos del Data Lake (tabla DL_programas) y cargarlos en Data Warehou
 
 # Consideraciones:
 
--Orden de ejecución: 5
+- Orden de ejecución: 5
 
 No tiene dependencias, se puede ejecutar en cualquier orden.
 
