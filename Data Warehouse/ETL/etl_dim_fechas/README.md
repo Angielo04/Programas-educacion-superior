@@ -1,7 +1,7 @@
 # ETL
 Extraer los datos del Data Lake (tabla DL_Homicidios) y cargarlos en Data Warehouse (tabla DIM_Fechas).
 
-![ETL](etl_dim_fechas.png)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](etl_dim_fechas.png)
 
 # Consideraciones:
 - Orden de ejecución: 6
