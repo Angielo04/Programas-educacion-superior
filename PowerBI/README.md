@@ -6,7 +6,7 @@ Diseño de un Dashboard utilizando Power BI para el análisis de los programas d
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](dashboard_1.png)
 
-**Tendencia:** Permite ver la tendencia de cantidad de programas inscritos por año en un gráfico de Línea. Se pueden aplicar filtros por origen y por caracter de los programas de educación superior.También muestra el Top los Departamentos con más programas acreditados.
+**Tendencia:** Permite ver la tendencia de cantidad de programas inscritos por año en un gráfico de Línea. Se pueden aplicar filtros por origen y por caracter de los programas de educación superior. También muestra el Top los Departamentos con más programas acreditados.
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](dashboard_2.png)
 
