@@ -1,6 +1,6 @@
 # Power BI
 
-Diseño de un Dashboard utilizando Power BI para el análisis de los programas de educación superior en Colombia.
+**Diseño de un Dashboard utilizando Power BI para el análisis de los programas de educación superior en Colombia.**
 
 **1. Georreferenciación:** Permite la navegación en un mapa por años en los Departamentos y Municipios de Colombia.
 
