@@ -10,6 +10,6 @@
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](dashboard_2.png)
 
-**3. Años y Meses:** Permite ver el comportamiento por año de la cantidad de programas acreditados mediente un gráfico de barras. Se pueden aplicar filtros por Rango de Años, por Meses, por Caracter, por Origen. También muestra el Top de instituciones con más programas acreditados por municipios.
+**3. Años y Meses:** Permite ver el comportamiento por año de la cantidad de programas acreditados mediante un gráfico de barras. Se pueden aplicar filtros por Rango de Años, por Meses, por Caracter, por Origen. También muestra el Top de instituciones con más programas acreditados por municipios.
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](dashboard_3.png)
